@@ -1,0 +1,38 @@
+{
+  "id": "0dfdc981-e35f-4620-8623-cf6603ec832a",
+  "name": "master template uk",
+  "publisher": "Dynavics Ltd",
+  "version": "0.1.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "https://www.dynavics.co.uk/contact",
+  "url": "https://www.dynavics.co.uk",
+  "logo": "./img/512x.png",
+  "dependencies": [
+    {
+      "appId": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+      "name": "Base Application",
+      "publisher": "Microsoft",
+      "version": "15.0.0.0"
+    },
+    {
+      "appId": "63ca2fa4-4f03-4f2b-a480-172fef340d3f",
+      "name": "System Application",
+      "publisher": "Microsoft",
+      "version": "1.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "15.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://www.dynavics.co.uk/contact",
+  "showMyCode": false,
+  "runtime": "4.0"
+}

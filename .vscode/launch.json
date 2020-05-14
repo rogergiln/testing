@@ -1,0 +1,20 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "al",
+      "request": "launch",
+      "name": "Microsoft Cloud Sandbox",
+      "tenant": "a86d2c8a-6032-4e60-a2d5-95838d3800cc", // dynavics
+      // "tenant": "3467b712-88bf-4f88-8a14-10789d487ef5", // britanniahospitality
+      // "tenant": "417394d2-d892-4282-adb4-db6845c820d0", // 365cmapsoftware
+      // "tenant": "f215679c-d6db-4abf-96ce-395ff7c296b0", // grimarch
+      // "tenant": "b38af273-d900-44a5-96b7-9b084e3f25d4", // nicholasplant
+      // "tenant": "7bb700a8-80a0-423f-958b-ed7a07360892", // simpsontravelco
+      // "tenant": "daf8cf4b-52bb-41b0-84b1-151051aa085d", // thorpprecast
+      "breakOnError": true,
+      "breakOnRecordWrite": false,
+      "launchBrowser": false
+    }
+  ]
+}
